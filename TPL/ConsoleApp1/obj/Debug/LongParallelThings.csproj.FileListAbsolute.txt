@@ -1,0 +1,8 @@
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\obj\Debug\LongParallelThings.csproj.AssemblyReference.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\obj\Debug\LongParallelThings.csproj.SuggestedBindingRedirects.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\obj\Debug\LongParallelThings.csproj.CoreCompileInputs.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

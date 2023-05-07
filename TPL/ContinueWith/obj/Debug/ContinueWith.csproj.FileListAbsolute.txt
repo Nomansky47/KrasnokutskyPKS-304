@@ -1,0 +1,8 @@
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\obj\Debug\ContinueWith.csproj.AssemblyReference.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\obj\Debug\ContinueWith.csproj.SuggestedBindingRedirects.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\obj\Debug\ContinueWith.csproj.CoreCompileInputs.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\bin\Debug\ContinueWith.exe.config
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\bin\Debug\ContinueWith.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\bin\Debug\ContinueWith.pdb
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\obj\Debug\ContinueWith.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ContinueWith\obj\Debug\ContinueWith.pdb

@@ -1,0 +1,8 @@
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\bin\Debug\ParallelThings.exe.config
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\bin\Debug\ParallelThings.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\bin\Debug\ParallelThings.pdb
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\obj\Debug\ParallelThings.csproj.AssemblyReference.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\obj\Debug\ParallelThings.csproj.SuggestedBindingRedirects.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\obj\Debug\ParallelThings.csproj.CoreCompileInputs.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\obj\Debug\ParallelThings.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\ParallelThings\obj\Debug\ParallelThings.pdb

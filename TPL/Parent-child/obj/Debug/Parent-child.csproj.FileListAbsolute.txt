@@ -1,0 +1,8 @@
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\bin\Debug\Parent-child.exe.config
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\bin\Debug\Parent-child.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\bin\Debug\Parent-child.pdb
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\obj\Debug\Parent-child.csproj.AssemblyReference.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\obj\Debug\Parent-child.csproj.SuggestedBindingRedirects.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\obj\Debug\Parent-child.csproj.CoreCompileInputs.cache
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\obj\Debug\Parent-child.exe
+C:\Users\NikitaPortable\source\repos\ConosleApp1\Parent-child\obj\Debug\Parent-child.pdb
