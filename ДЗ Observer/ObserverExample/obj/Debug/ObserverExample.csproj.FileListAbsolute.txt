@@ -6,3 +6,11 @@ C:\Users\NikitaPortable\source\repos\ObserverExample\ObserverExample\obj\Debug\O
 C:\Users\NikitaPortable\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csproj.CoreCompileInputs.cache
 C:\Users\NikitaPortable\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.exe
 C:\Users\NikitaPortable\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.pdb
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\bin\Debug\ObserverExample.exe.config
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\bin\Debug\ObserverExample.exe
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\bin\Debug\ObserverExample.pdb
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\obj\Debug\ObserverExample.csproj.AssemblyReference.cache
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\obj\Debug\ObserverExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\obj\Debug\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\obj\Debug\ObserverExample.exe
+C:\Users\NikitaPortable\Desktop\KrasnokutskyPKS-304\ДЗ Observer\ObserverExample\obj\Debug\ObserverExample.pdb
