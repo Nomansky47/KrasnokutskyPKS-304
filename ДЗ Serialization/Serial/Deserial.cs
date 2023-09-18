@@ -7,7 +7,7 @@ namespace Serial
         public static T MyDeserializer<T>(this string obj)
         {
 
-            return JsonSerializer.Deserialize<T>(obj);
+            return JsonSerializer.Deserialize<T>(obj); 
         }
     }
 }
