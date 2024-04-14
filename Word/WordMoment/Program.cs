@@ -11,7 +11,8 @@ namespace WordMoment
     {
         static void Main()
         {
-            string path = "C:\\Users\\NikitaPortable\\Desktop\\help.docx";
+            Console.WriteLine("Введите путь до файла:");
+            string path = Console.ReadLine();
             using (WordprocessingDocument Doc = WordprocessingDocument.Open(path, true))
             {
                 IEnumerable<Paragraph> needthings = Doc.MainDocumentPart.Document.Body.Descendants<Paragraph>();
@@ -29,29 +30,30 @@ namespace WordMoment
                         Text newText = newthing.Descendants<Text>().FirstOrDefault();
                         if (newText != null)
                         {
-                            string Name = "Name";
-                            string ID="ID";
-                            string Class = "Class";
-                            Console.WriteLine(newText.Text);
-                            if (newText.Text.Contains(Name))
+                            Console.WriteLine("Введите фамилию для замены:");
+                            string surname = Console.ReadLine();
+                            Console.WriteLine("Введите имя для замены:");
+                            string name = Console.ReadLine();
+                            Console.WriteLine("Введите отчество для замены:");
+                            string patronymic = Console.ReadLine();
+                            Myinformation Myinformation = new Myinformation(name,surname,patronymic);
+                            if (newText.Text.Contains("Name"))
                             {
-                                Console.WriteLine("Здесь имя");
-                                newText.Text = newText.Text.Replace(Name, Myinformation.Name);
+                                newText.Text = newText.Text.Replace("Name", Myinformation.Name);
                             }
-                            else if (newText.Text.Contains(ID))
+                            else if (newText.Text.Contains("Surname"))
                             {
-                               Console.WriteLine("Здесь ID");
-                                newText.Text = newText.Text.Replace(ID, Myinformation.ID);
+                                newText.Text = newText.Text.Replace("Surname", Myinformation.SurName);
                             }
-                            else if ( newText.Text.Contains(Class)) 
+                            else if ( newText.Text.Contains("Patronymic")) 
                             {
-                                 Console.WriteLine("Здесь возраст");
-                                newText.Text = newText.Text.Replace(Class, Myinformation.Class);
+                                newText.Text = newText.Text.Replace("Patronymic", Myinformation.Patronymic);
                             }
                             body.AppendChild(newthing);
                         }
                     }
                     NewDoc.Save();
+                    Console.WriteLine("Успешно!");
                 }
             }
             Console.ReadLine();

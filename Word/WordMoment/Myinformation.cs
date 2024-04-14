@@ -1,15 +1,15 @@
 ﻿namespace WordMoment
 {
-    public static class Myinformation
+    public  class Myinformation
     {
-        public static string Name { get;set; }
-        public static string ID { get; set; }
-        public static string Class { get; set; }
-        static  Myinformation()
+        public  string Name { get;set; }
+        public  string SurName { get; set; }
+        public  string Patronymic { get; set; }
+        public Myinformation(string name,string surname, string patronymic)
         {
-            Name = "Алексей";
-            ID = "1235";
-            Class = "Живой";
+            Name = name; 
+            SurName = surname; 
+            Patronymic = patronymic;
         }
     }
 }
