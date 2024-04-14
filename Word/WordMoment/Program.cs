@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using DocumentFormat.OpenXml;
 using System.IO;
-namespace WordMoment
+namespace WordPractic
 {
     internal class Program
     {

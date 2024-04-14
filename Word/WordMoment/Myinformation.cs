@@ -1,4 +1,4 @@
-﻿namespace WordMoment
+﻿namespace WordPractic
 {
     public  class Myinformation
     {
